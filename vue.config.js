@@ -1,3 +1,5 @@
+const path = require("path");
+
 module.exports = {
     publicPath: "./",
     css: {
@@ -12,5 +14,22 @@ module.exports = {
           }
           return args
         })
-    }
+    },
+    configureWebpack: {
+      resolve: {
+        alias: {
+          '@': path.resolve(__dirname, 'src/'),
+          '@component': path.resolve(__dirname, 'src/components'),
+          '@page': path.resolve(__dirname, 'src/pages/'),
+          '@mixin': path.resolve(__dirname, 'src/mixins/'),
+          '@api': path.resolve(__dirname, 'src/api/'),
+          '@mock': path.resolve(__dirname, 'src/api-mock/'),
+          '@asset': path.resolve(__dirname, 'src/assets/'),
+          '@i18n': path.resolve(__dirname, 'src/i18n'),
+          '@router': path.resolve(__dirname, 'src/router/'),
+          '@store': path.resolve(__dirname, 'src/store/'),
+          '@util': path.resolve(__dirname, 'src/utils')
+        }
+      }
   }
+}
