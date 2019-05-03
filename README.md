@@ -4,26 +4,22 @@ Learn more about basic html, css and js with expert on devc community Jakarta.
 ## Exercise 1: Introduce html and css
 ###### click image to live demo
 [![screenshot cv](assets/images/sc-cv.png "exercise 1 introduce html and css")](https://vendywira.github.io/devc-basic-js/src/exercise-1-introduce-html-css/)
-##### repo: 
-[source code](https://github.com/vendywira/devc-basic-js/src/exercise-1-introduce-html-css/)
+##### repo: [source code](https://github.com/vendywira/devc-basic-js/tree/exercise-1-introduce-html-css)
 
 ## Exercise 2: Basic js and DOM manipulation
 ###### click image to live demo
 [![screenshot calculator](assets/images/sc-calculator.png "exercise 2 basic js and dom manipulation")](https://vendywira.github.io/devc-basic-js/src/exercise-2-basic-js-and-dom-manipulation/)
-##### repo: 
-[source code](https://github.com/vendywira/devc-basic-js/src/exercise-2-basic-js-and-dom-manipulation/)
+##### repo: [source code](https://github.com/vendywira/devc-basic-js/tree/exercise-2-basic-js-and-dom-manipulation)
 
 ## Exercise 3: Basic Logic JS
 ###### click image to live demo
 [![screenshot table swapi](assets/images/sc-table-swapi.png "click to preview")](https://vendywira.github.io/devc-basic-js/src/exercise-3-javascript-and-basic-logic/)
-##### repo: 
-[source code](https://github.com/vendywira/devc-basic-js/src/exercise-3-javascript-and-basic-logic/)
+##### repo: [source code](https://github.com/vendywira/devc-basic-js/tree/exercise-3-javascript-basic-logic)
 
 ## Exercise 4: final project
 ###### click image to live demo
 [![screenshot table swapi](assets/images/sc-final-project.png "click to preview")](https://vendywira.github.io/devc-basic-js/src/exercise-4-final-project/)
-##### repo: 
-[source code](https://github.com/vendywira/devc-basic-js/src/exercise-4-final-project/)
+##### repo: [source code](https://github.com/vendywira/devc-basic-js/tree/exercise-4-final-project)
 
 
 ## Sass what is this??
